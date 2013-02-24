@@ -1,0 +1,500 @@
+   63  cd ..
+   64  rm -R simpleCms/
+   65  rails create simpleCMS
+   66  rails new simpleCms
+   67  rm -R simpleCms/
+   68  rails new simpleCms -d=mysql
+   69  cd simpleCms/
+   70  rails generate controller
+   71  generate controller
+   72  rails generate controller demo
+   73  mysql
+   74  cd ..
+   75  rails new simpleCms -d=mysql
+   76  ls
+   77  rm -r simpleCms
+   78  ls
+   79  rails new simpleCms
+   80  cd simpleCms/
+   81  mysql -u root 
+   82  mysql -u root -p
+   83  mysql -u root -p
+   84  history
+   85  sdfkljsadfjkj
+   86  sadfkj
+   87  cd projects/2013
+   88  mkdir CodeDay
+   89  cd CodeDay
+   90  ls
+   91  git clone git@git.assembla.com:ideally.git
+   92  git clone git@git.assembla.com:ideally.git
+   93  cd ~/.ssh
+   94  ls
+   95  cat id_rsa
+   96  cat id_ssh
+   97  ls -a
+   98  cat id_rsa.pub
+   99  ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA2drQttonUv2UKgkNywdFCbevm4FOFngf2B36YxZVNAXM+HJtrqrGGauA7mz3bb2dBtOq7m97jWoP2ohR6zd2CB3apgKMeBn5Ekrt97vsnXUS1WllTTw4j29VmHRpBaI0gGOqQxwyDtRRGo/yWMuhWPYxR2FHQNRPEU3yKi1LrijBRRUAviL13Osi6uKBISwXXpxqBWdMpjVMO/jYhwV9/ByBzJ1ch1ixe38UyoNRvCCuUvOJWR7YMD2kPuv5K2SINSfB+S8Y3Dwjm+96HSG4+e8vN7CQxj7aoXAJyncQSmEZ75FyqOa
+  100  cd. 
+  101  cd
+  102  cd projects/2013/CodeDay/
+  103  git clone git@git.assembla.com:ideally.git
+  104  ls
+  105  cd ideally/
+  106  ls
+  107  git push origin master
+  108  set origin master
+  109  git set origin master
+  110  git commit -M
+  111  git commit
+  112  git checkout
+  113  git pull
+  114  git commit
+  115  ls
+  116  git add *
+  117  git commit
+  118  git push
+  119  git pull 
+  120  git pull origin master
+  121  git push
+  122  git push origin master
+  123  ls
+  124  clear
+  125  ;s
+  126  ls
+  127  git commit -a
+  128  git pull
+  129  git pull origin master 
+  130  git push
+  131  ls
+  132  git add *
+  133  git pusg
+  134  git push
+  135  git commit * 
+  136  git add *
+  137  git push
+  138  push origin master
+  139  git pushorigin master
+  140  git push origin master
+  141  git pull 
+  142  git pull origin master
+  143  git push origin master
+  144  git --help
+  145  git branch
+  146  git branch master
+  147  git branch 
+  148  git pull origin master
+  149  git push origin master
+  150  clear
+  151  ls
+  152  pwd
+  153  ls
+  154  cd OLDideally.io/
+  155  ls
+  156  git push 
+  157  git commit *
+  158  git commit *
+  159  git add *
+  160  git push
+  161  git pull 
+  162  git pull origin master
+  163  git push origin master
+  164  git branch
+  165  git status
+  166  git commit *
+  167  git push
+  168  git push origin master
+  169  git push origim master
+  170  git origin master
+  171  git pull origin master
+  172  git push origin master
+  173  git commit * 
+  174  cd ..
+  175  ls
+  176  cd ideallyio/
+  177  ls
+  178  git commit *
+  179  git pull origin master
+  180  cd ..
+  181  ls
+  182  git commit *
+  183  git pull origin master
+  184  git push origin master
+  185  git status
+  186  git commit *
+  187  git add *
+  188  git push origin master
+  189  git pull origin master
+  190  git commit *
+  191  git status
+  192  cd OLDideally.io/
+  193  git commit *
+  194  git push origin master
+  195  ls 
+  196  clear
+  197  git status
+  198  git commit * 
+  199  nano new.txt
+  200  git commit *
+  201  git add *
+  202  git commit *
+  203  git pull origin master
+  204  git push origin master
+  205  git pull origin master
+  206  git push origin master
+  207  cd ..
+  208  git pull origin master
+  209  git branch
+  210  git pull origin master
+  211  git push origin master
+  212  git --help
+  213  git -fast-forward
+  214  cd 
+  215  cd projects/2013/CodeDay/
+  216  ls
+  217  git clone git@git.assembla.com:ideally.git
+  218  clear
+  219  ls
+  220  cd ideally/
+  221  ls
+  222  cd OLDideally.io/
+  223  ls
+  224  clear
+  225  vi ideally.md
+  226  git pull origin master
+  227  git add * ideally.md 
+  228  git commit * 
+  229  git push origin master
+  230  cd ..
+  231  cd ideallyi
+  232  cd ideallyio
+  233  ls
+  234  appcfg.py update ideallyio/
+  235  cd ..
+  236  appcfg.py update ideallyio/
+  237  appcfg.py update ideallyio/
+  238  appcfg.py update ideallyio/
+  239  appcfg.py update ideallyio/
+  240  clear
+  241  git pull origin master
+  242  clear
+  243  pw
+  244  pwd
+  245  git pull origin master
+  246  python -v
+  247  clear
+  248  python
+  249  ls
+  250  cd ideallyio/
+  251  ls
+  252  nano app.yaml 
+  253  nano app.yaml 
+  254  pwd
+  255  cd ..
+  256  cd ideallyio/
+  257  ls
+  258  nano ideallyio.py
+  259  cd ..
+  260  git push origin master
+  261  git add *
+  262  git commmit * 
+  263  git commit * 
+  264  git push
+  265  git push origin master
+  266  clear
+  267  git pull origin master
+  268  appcfg.py update ideallyio/
+  269  git commit *
+  270  git pull origin master
+  271  git push origin master
+  272  ls
+  273  appcfg.py update ideally/
+  274  appcfg.py update ideallyio/
+  275  appcfg.py update ideallyio/
+  276  appcfg.py update ideallyio/
+  277  appcfg.py update ideallyio/
+  278  appcfg.py update ideallyio/
+  279  appcfg.py update ideallyio/
+  280  appcfg.py update ideallyio/
+  281  appcfg.py update ideallyio/
+  282  appcfg.py update ideallyio/
+  283  appcfg.py update ideallyio/
+  284  appcfg.py update ideallyio/
+  285  appcfg.py update ideallyio/
+  286  appcfg.py update ideallyio/
+  287  appcfg.py update ideallyio/
+  288  appcfg.py update ideallyio/
+  289  git commit *
+  290  git push
+  291  git pull origin master
+  292  git push origin master
+  293  appcfg.py update ideallyio/
+  294  appcfg.py update ideallyio/
+  295  appcfg.py update ideallyio/
+  296  appcfg.py update ideallyio/
+  297  clear
+  298  cd projects/2013/
+  299  ls
+  300  cd CodeDay
+  301  ls
+  302  git add * 
+  303  git commit *
+  304  git pull origin master
+  305  ls
+  306  cd ideallyio/
+  307  ls
+  308  cd ..
+  309  ls
+  310  cd ideally
+  311  ls
+  312  cd ideallyio/
+  313  sl
+  314  sml
+  315  man sl
+  316  echo .bash_profile
+  317  cat .bash_profile
+  318  nano .bash_profile
+  319  login
+  320  nano .bash_profile
+  321  ssh lknovose@pc61.cs.ucdavis.edu
+  322  login
+  323  login
+  324  nano .bash_profile
+  325  ssdavis
+  326  nano .bash_profile
+  327  ssdavis
+  328  ssdavis
+  329  cd projects/2013/
+  330  ls
+  331  cd rubyOnRails/
+  332  ls
+  333  cd simple
+  334  cd simpleCms/
+  335  ls
+  336  ls
+  337  ls -r
+  338  ls -l
+  339  cd ..
+  340   cd ..
+  341  ls
+  342  cd rubyOnRails/
+  343  ls
+  344  cd Ex_Files_RubyRails3_EssT
+  345  ls
+  346  cd Exercise\ Files/
+  347  ls
+  348  cd Chapter_06
+  349  ls
+  350  diff 06_09_simple_cms/ 06_10_simple_cms/
+  351  diff 06_09_simple_cms/ 06_09_simple_cms/
+  352  diff 06_09_simple_cms/ 06_01_simple_cms/
+  353  diff -r 06_09_simple_cms/ 06_01_simple_cms/
+  354  diff -r 06_09_simple_cms/ 06_10_simple_cms/
+  355  cd ..
+  356  ls
+  357  cd Chapter_06
+  358  ls
+  359  cd ,,
+  360  cd ..
+  361  ls
+  362  cd ..
+  363  ls
+  364  cd ..
+  365  ls
+  366  cd simple_cms/
+  367  rails generate model
+  368  rails generate model Subject
+  369  bundle install
+  370  gem install bundler
+  371  sudo gem install bundler
+  372  rails generate model Subject 
+  373  install gem rails 
+  374  bundle install gem rails 
+  375  rails generate model Subject
+  376  pwd
+  377  cd 
+  378  cd projects/2013
+  379  ls
+  380  cd rubyOnRails/
+  381  ls
+  382  cd simpleCms/
+  383  ls
+  384  rails generate model Subjact
+  385  echo $path
+  386  echo $PATH
+  387  cd ../simple_cms/
+  388  ls
+  389  rails generate model Subject
+  390  echo $PATH
+  391  cd ../simpleCms
+  392  ls
+  393  cd ..
+  394  rails create project
+  395  rails new example_Cms
+  396  ls
+  397  cd example_Cms
+  398  rails generate model Subject
+  399  cd projects
+  400  ls
+  401   cd simpleCms
+  402  ls
+  403  rails generate model Page
+  404  rails generate model Section
+  405  mysql
+  406  clear
+  407  rails server
+  408  ls
+  409  cd ..
+  410  ls
+  411  rm example_Cms/
+  412  rm -r example_Cms/
+  413  cat history > history.txt
+  414   history > history.txt
+  415  ls
+  416  open history.txt 
+  417  cd simpleCms
+  418  ls
+  419  rails server
+  420  rails new exampleProject
+  421  cd ..
+  422  ls
+  423  rails example_cms
+  424  rails new example_cms
+  425  rm -r example_cms/
+  426  rails new example_cms -d=mysql
+  427  bundle show rails
+  428  bundle show 'rails'
+  429  bundle show
+  430  clear
+  431  cd example_cms/
+  432  bundle show
+  433  bundle show 'rails'
+  434  clear
+  435  rails generate controller demo
+  436  mysql -u root -p 
+  437  mysql -u root -p 
+  438  mysql
+  439  mysql -u root -p 
+  440  mysql -u root -p 
+  441  mysql -u root -p 
+  442  clear
+  443  rails generate model users
+  444  rails server
+  445  rails server
+  446  rails server
+  447  mysql -u example_cms_development 
+  448  rails server
+  449  mysql
+  450  mysql -u example_cms_development 
+  451  mysql -u exampleCmsDev -p loc024ACecd
+  452  mysql -u exampleCmsDev -p
+  453  mysql -u exampleCmsDev -p 
+  454  rails server
+  455  ls
+  456  mysql -u root -p 
+  457  rails server
+  458  rake routes
+  459  rails server
+  460  rails server
+  461  rails server
+  462  rails server
+  463  rails server
+  464  rails server
+  465  rails server
+  466  ls
+  467  clear
+  468  mysql -u exampleCmsDev -p
+  469  mysql -u exampleCmsDev -p
+  470  generate model users
+  471  rails generate model users
+  472  rake 
+  473  rake db:migrate
+  474  rake db:migrate
+  475  rails generate model Section 
+  476  rails generate model Page
+  477  rails generate model Subject
+  478  rake
+  479  rake db:migrate
+  480  rake db:migrate
+  481  cd Downloads/ChromeDownloads/
+  482  ls
+  483  nano image.txt
+  484  cd Downloads/ChromeDownloads/
+  485  ls
+  486  nano image.txt
+  487  cd projects/2013/
+  488  LS
+  489  cd rubyOnRails/
+  490  ls
+  491  cd example_cms/
+  492  rake db:migrate
+  493  rails server
+  494  irb
+  495  rails console
+  496  rails console
+  497  cd projects/2013/
+  498  ls
+  499  cd rubyOnRails/
+  500  ls
+  501  example_cms/
+  502  ls
+  503  cd example_cms/
+  504  ls
+  505  rails console
+  506  rake db:migrate
+  507  rails console
+  508  migrate
+  509  rake db:migrate
+  510  rake db:update
+  511  rake db
+  512  rake -T
+  513  rake db:migrate VERBOSE = true
+  514  rake db:migrate -VERBOSE = true
+  515  rake db:create
+  516  rake db:create
+  517  clear
+  518  rake -R
+  519  rake -T
+  520  rake db:migrate:status
+  521  rake db:schema
+  522  rake db:schema:load
+  523  rails console
+  524  rake db:migrate
+  525  rake routes
+  526  rake db:setup
+  527  rake db:drop
+  528  rake db:drop -p 
+  529  rake db:drop
+  530  rake db:drop example_cms
+  531  rake db:create
+  532  clear
+  533  rake clear
+  534  rails console
+  535  clear
+  536  rails new
+  537  rake db:migrate
+  538  rake db:migrate
+  539  rake db:migrate
+  540  rake db:migrate
+  541  rake db:migrate
+  542  clear
+  543  rake db:migrate
+  544  rake db:drop
+  545  rake db:drop password = loc024ACsql
+  546  rake db:drop -p loc024ACsql
+  547  rake db:drop -p
+  548  rake db:drop p:
+  549  rake db:drop
+  550  rake -T
+  551  clear
+  552  rake -T
+  553  rake db:create
+  554  rails console
+  555  rails db:migreate
+  556  rails db:migrate
+  557* 
+  558  rake 
+  559  rake db:migrate
+  560  rails console
+  561  ls
+  562  history > doc/history1.txt
